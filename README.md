@@ -31,6 +31,3 @@ Core workflow:
 - outputs/sample_output.txt: sample retrieval and answer output
 - analysis_report.md: short analysis report
 - pdfs/: sample source PDFs used for indexing
-
-## Submission Notes
-For LMS submission, zip the project folder with the notebook, sample outputs, source PDFs, and analysis report.
