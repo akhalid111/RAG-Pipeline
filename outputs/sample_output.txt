@@ -1,0 +1,81 @@
+Query: What are the most important recommendations across these documents?
+
+Top retrieved chunks:
+
+[1] score=0.5710
+source=travel_agency_customer_support_faq.pdf page=0
+Skyline Travels - Customer Support FAQ
+Before You Travel
+- Q: When will I get my final itinerary?
+- A: Usually 5-7 days before departure via email.
+- Q: Can I request vegetarian meals?
+- A: Yes, meal preferences can be submitted 10 days before departure.
+- Q: Do you assist with visas?
+- A: Yes, we provide checklist guidance and appointment support.
+During Your Trip
+- 24/7 helpline: +1-800-555-0199 for urgent travel assistance.
+- Local ground partner contact is shared in your travel voucher.
+- Emergency protocol: contact helpline first, then nearest embassy if needed.
+- Missed transfer support 
+
+[2] score=0.5808
+source=travel_agency_packages_2026.pdf page=0
+Skyline Travels - Holiday Packages 2026
+Europe Explorer (10 Days)
+- Cities: Paris, Zurich, Venice, Rome
+- Price: USD 2,450 per person (double occupancy)
+- Includes: 4-star hotels, daily breakfast, airport transfers
+- Optional add-on: Swiss scenic rail pass for USD 180
+- Best season: April to June, September to October
+Southeast Asia Discovery (8 Days)
+- Cities: Bangkok, Siem Reap, Ho Chi Minh City
+- Price: USD 1,780 per person
+- Includes: city tours, one domestic flight, visa assistance guide
+- Family discount: 12% off for children under 12
+- Peak surcharge applies during December holidays
+Mid
+
+[3] score=0.5936
+source=travel_agency_booking_policy.pdf page=0
+Skyline Travels - Booking and Cancellation Policy
+Booking Terms
+- A deposit of 30% is required to confirm any package.
+- Remaining balance must be paid 21 days before departure.
+- Bookings made within 14 days require full payment upfront.
+- Travel insurance is strongly recommended for all travelers.
+Cancellation Policy
+- 31+ days before departure: full refund minus USD 100 processing fee.
+- 15-30 days before departure: 50% of total package retained.
+- 7-14 days before departure: 75% of total package retained.
+- 0-6 days before departure or no-show: non-refundable.
+Change and Reschedule
+- One d
+
+Generated answer:
+The most important recommendations across the provided documents are:
+
+1. **Before You Travel**:
+   - Final itinerary is sent 5-7 days before departure.
+   - Submit meal preferences (e.g., vegetarian) 10 days before departure.
+   - Assistance with visas is available.
+
+2. **During Your Trip**:
+   - Use the 24/7 helpline for urgent assistance.
+   - Contact local ground partner as per travel voucher.
+   - Follow emergency protocol: contact helpline first, then nearest embassy.
+   - Expect a response within 20 minutes for missed transfer support.
+
+3. **After Your Trip**:
+   - Refund claims processed within 10 to 15 business days.
+   - Service feedback forms sent within 48 hours of return.
+   - Loyalty members earn points for bookings; repeat travelers get discounts.
+
+4. **Booking and Cancellation Policy**:
+   - A 30% deposit is required to confirm bookings; full payment is due 21 days before departure.
+   - Travel insurance is recommended.
+   - Cancellation policies vary based on the timing of cancellation, with specific fees outlined.
+   - One date change is allowed up to 20 days before departure, with conditions.
+
+5. **Package Recommendations**:
+   - Consider the best seasons for travel packages (e.g., Europe Explorer from April to June, September to October).
+   - Family discounts and optional add-ons are available for certain packages.
