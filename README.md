@@ -31,3 +31,18 @@ Core workflow:
 - outputs/sample_output.txt: sample retrieval and answer output
 - analysis_report.md: short analysis report
 - pdfs/: sample source PDFs used for indexing
+
+## Setup
+1. Create and activate a virtual environment.
+2. Install the project dependencies with `pip install -r requirements.txt`.
+3. Open `main.ipynb` in VS Code or Jupyter and select the virtual environment as the notebook kernel.
+
+The dependency list includes both `jupyter` and `ipykernel` so the notebook kernel is available immediately after installation.
+
+## Environment Variables
+Set these values in a `.env` file or your shell before running the notebook:
+- `AZURE_OPENAI_API_KEY` or `OPENAI_API_KEY`
+- `AZURE_OPENAI_ENDPOINT`
+- `AZURE_OPENAI_API_VERSION`
+- `AZURE_OPENAI_EMBEDDING_DEPLOYMENT`
+- `AZURE_OPENAI_CHAT_DEPLOYMENT`
